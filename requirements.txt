@@ -1,8 +1,8 @@
-streamlit
-torch
 torch-geometric
-pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
+streamlit==1.32.0
+torch==2.1.0
+pandas>=2.0
