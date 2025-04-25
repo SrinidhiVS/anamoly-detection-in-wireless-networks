@@ -1,3 +1,5 @@
+import os
+os.environ["STREAMLIT_WATCHDOG_MODE"] = "none"
 import streamlit as st
 import torch
 import torch.nn.functional as F
